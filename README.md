@@ -137,3 +137,12 @@ jobs:
 
 ![image](https://github.com/UPT-FAING-EPIS/lab_ci_pruebas_01/assets/10199939/33266cc0-98e6-4585-a863-8cefd2748dab)
 
+## EVIDENCIA
+1. Resultado del Coverage Report
+   ![CoverageReport](https://github.com/user-attachments/assets/f096bfc2-426b-4dc7-9d7b-f7db80101a06)
+2. Resultado del SonarQube Cloud
+   ![sonarcloud](https://github.com/user-attachments/assets/447bbea3-34c4-4143-a53e-b7daa0a284c9)
+3. Living Documentation generado automáticamente
+   ![livingdocumentation](https://github.com/user-attachments/assets/14f2b58c-5f9c-4f07-b7d4-e31f2e542c96)
+   ![Analitucs](https://github.com/user-attachments/assets/01e7eab1-e235-4867-9593-ad9cc2a08e90)
+
